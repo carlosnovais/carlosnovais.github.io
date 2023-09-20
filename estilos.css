@@ -1,0 +1,21 @@
+p{
+	color: blue;
+	fonte-size: 20px;
+}
+
+p.centro{
+	text-align: center;
+	color: green;
+	font-size: 25px;
+}
+
+h1{
+	color: red;
+}
+
+ul{
+	list-style-position: inside;
+	list-style-type: circle;
+	background: #cccccc;
+	padding: 10px;
+}
